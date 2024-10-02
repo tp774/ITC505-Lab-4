@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Open+Sans:wght@300;400&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f9f9f9;
+    margin: 40px;
+    padding: 20px;
+    line-height: 1.8;
+    color: #333;
+}
+
+h1 {
+    font-family: 'Lora', serif;
+    font-size: 2.5em;
+    text-align: center;
+    color: #2c3e50;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+.character {
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 1.3em;
+    color: #8e44ad;
+}
+
+.aside {
+    font-style: italic;
+    color: #7f8c8d;
+}
+
+p {
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 0.85em;
+    color: #95a5a6;
+}
+
+footer p {
+    margin: 10px;
+}
+
+#lastModified {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #27ae60;
+}
